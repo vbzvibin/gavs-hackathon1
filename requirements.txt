@@ -1,7 +1,6 @@
 absl-py==1.2.0
 itsdangerous==1.1.0
 flasgger==0.9.4
-MarkupSafe==1.1.1
 gunicorn==19.9.0
 altair==4.2.0
 argon2-cffi==21.3.0
